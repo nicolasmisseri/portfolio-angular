@@ -2,3 +2,33 @@
     margin: 0;
     padding: 0;
 }
+
+img{
+    width: 152px;
+    height: 152px;
+}
+.card{
+    margin-top: 10px;
+    /*color: white;*/
+    background-color: white;
+    padding : 0%;
+    margin-left: 10%;
+}
+#fondo-imagen{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 10px;
+    
+    background-color:#004182;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: #004182;
+    padding: 5px;
+}
+
+#inputEditarAcercaDe {
+    display: none;
+    margin-bottom: 10px;
+}
